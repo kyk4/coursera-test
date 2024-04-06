@@ -1,0 +1,19 @@
+#nav-list{
+	text-align: center;
+}
+#content {
+	background-color: #cccccc;
+	padding: 10px;
+}
+
+@media (min-width){
+	.col-sm-12{
+		width: 100%;
+	}
+}
+@media (max-width:767px){
+	.col-sm-12{
+		width:400px;
+		margin: 0 auto 0;
+	}
+}
